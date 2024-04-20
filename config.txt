@@ -1,1 +1,1 @@
-aws_access_key_id = AKIA25FAKEEXAMPLEKEY
+aws_access_key_id=ASIAX6IER7UI3ZRZBFEV
